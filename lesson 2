@@ -1,4 +1,4 @@
-
+https://valera000.github.io/lesson-2-l/
 age = int(input())
 
 if '7' in str(age):
